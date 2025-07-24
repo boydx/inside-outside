@@ -2,10 +2,10 @@
 
 Public presentation for _These Grand Places_ show at 2nd Story Gallery, Lexington, KY.
 
-**When**: 6:00 PM, July 24, 2025
-**Where**: 2nd Story Gallery, Lexington, KY, 522 West Short Street, Lexington, KY
-**Gallery**: [2nd Story](https://www.2ndstory.art/events/inside-outside-kentuckys-public-parks)
-**Presentation**: [Inside Outside](https://boydx.github.io/inside-outside/)
+**When**: 6:00 PM, July 24, 2025.  
+**Where**: 2nd Story Gallery, Lexington, KY, 522 West Short Street, Lexington, KY.  
+**Gallery**: [2nd Story](https://www.2ndstory.art/events/inside-outside-kentuckys-public-parks).  
+**Presentation**: [Inside Outside](https://boydx.github.io/inside-outside/).
 
 ## Summary
 
