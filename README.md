@@ -13,8 +13,10 @@ Boyd Shearer engages this line of inquiry about public land, but brings it close
 
 ## Sources and credits
 
+- [Map of locations](https://boydx.github.io/inside-outside/map)
 - [outrageGIS mapping](https://www.outragegis.com)
 - [KyFromAbove](https://kyfromabove.ky.gov/)
+- [GeoJSON of KyFromAbove oblique imagery sources](https://boydx.github.io/inside-outside/geosjon/KyFromAbove-phase-3-oblique-active-frames-2025-07-23.geojson)
 - 🎥 [At Leisure's Edge documentary](https://www.youtube.com/watch?v=Rg06P3zk3G4)
 - [Lexington Records Center and Archives](https://www.lexingtonky.gov/government/departments-programs/council-clerks-office/records-center-archives)
 - [Lexington Public Library Kentucky Room](https://www.lexpublib.org/search?keys=local)
